@@ -1,3 +1,1 @@
-this is written for those who cannot read
-
-For information check https://github.com/its-pointless/gcc_termux 
+For information check https://psylo-dev.github.io/
